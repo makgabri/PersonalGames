@@ -1,0 +1,8 @@
+Classname: Help
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Return a list of commands
+
+Collaborators:

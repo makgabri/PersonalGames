@@ -1,0 +1,8 @@
+Map Format:
+First line: Map Title
+Second line: map size
+Third line: starting position
+Forth line: map onwards
+X: Wall
+Y: Open space
+Z: Destination

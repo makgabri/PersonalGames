@@ -1,0 +1,8 @@
+Classname: Movement
+Parent class: Executables
+Subclasses:
+
+Responsibilities:
+* Takes user input and moves the players location
+
+Collaborators:

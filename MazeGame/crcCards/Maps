@@ -1,0 +1,9 @@
+Classname: Maps
+Parent Class:
+Subclasses:
+
+Responsibilities:
+* Take a map txt and set as current game mape
+* Hold details of game map
+
+Collaborators:

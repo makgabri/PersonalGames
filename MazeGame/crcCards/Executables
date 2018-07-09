@@ -1,0 +1,8 @@
+Classname: Executables
+Parent class:
+Subclasses: Movement
+
+Responsibilties:
+* Holding all executables possible for user input
+
+Collaborators:

@@ -1,0 +1,9 @@
+Classname: Player
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Hold player xz
+
+Collaborators:
+* Maps

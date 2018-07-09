@@ -1,0 +1,8 @@
+Classname: Exit
+Parent class:
+Subclasses:
+
+Responsibilities:
+* Exiting the game
+
+Collaborators:
