@@ -1,0 +1,26 @@
+Initialize all pygame inits
+Initialize game settings
+    - move speed
+    - wall size
+Initialize snake object
+
+Start loop
+    1. If snake alive, continue, else game over or you win
+    (hidden step here) -> Check if paused, otherwise continue
+    2. Check for event type
+        2.1 Check quit game event -> quit game
+        2.2 Check direction event -> change snake direction
+    3. Move 1 step towards step head direction
+        3.1 erase tail & draw new head
+        3.2 update new picture
+
+
+
+Helper functions
+    - snake_alive
+    - did_player_win
+
+Later Implementations
+    - Borders
+    - Press x to start
+    - Pause function
