@@ -21,3 +21,4 @@ Controls:
 * 🠋 Moves snake down
 * 🠈 Moves snake left
 * 🠊 Moves snake right
+* p to pause/unpause
